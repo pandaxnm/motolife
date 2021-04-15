@@ -1,11 +1,12 @@
 ---
 title: 加装未来之眼F30射灯
-date: 2021-04-04 13:25:00
+date: 2021-04-06 13:25:00
 author: Pandaxnm
 img: https://images.mokeee.com/20210415125706.png!blog
 cover: true
 coverImg: https://images.mokeee.com/20210415125706.png!blog
 categories: 日常折腾
+keywords: 宝马,F900XR,射灯,未来之眼,改装,摩托车,机车
 tags:
 - 射灯
 - F900XR
