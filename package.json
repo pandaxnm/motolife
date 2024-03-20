@@ -12,7 +12,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
-    "hexo": "^5.0.0",
+    "hexo": "^7.1.1",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
@@ -23,5 +23,6 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
