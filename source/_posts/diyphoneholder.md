@@ -3,12 +3,10 @@ title: DIY一个减震美观的手机支架
 date: 2020-08-15 20:05:00
 author: Pandaxnm
 img: https://images.mokeee.com/20210415154421.png!blog
-cover: true
+cover: false
 coverImg: https://images.mokeee.com/20210415154421.png!blog
-categories: 日常折腾
+categories: 摩托日记
 keywords: 摩托车,机车,改装,手机支架,减震
-tags:
-- DIY
 ---
 
 > 图中车型为GSX250，此方法应该适用于大多仿赛车型，需要配合风挡支架使用。

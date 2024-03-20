@@ -5,7 +5,7 @@ author: Pandaxnm
 img: https://images.mokeee.com/20230807010025.jpg
 cover: true
 coverImg: https://images.mokeee.com/20230807010025.jpg
-categories: 骑行日记
+categories: 摩托日记
 keywords: 摩托车,机车,摩旅,骑行
 tags:
 ---

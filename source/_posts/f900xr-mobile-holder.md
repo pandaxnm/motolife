@@ -3,9 +3,9 @@ title: F900XR 手机支架
 date: 2021-05-21 10:21:08
 author: Pandaxnm
 img: https://images.mokeee.com/20210521102750.png!blog?imageMogr2/auto-orient
-cover: true
+cover: false
 coverImg: https://images.mokeee.com/20210521102750.png!blog?imageMogr2/auto-orient
-categories: F900XR改装
+categories: 摩托日记
 keywords: 摩托车,机车,改装,手机支架
 tags:
 ---

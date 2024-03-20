@@ -3,9 +3,9 @@ title: F900XR改装风挡汇总
 date: 2021-05-11 10:05:00
 author: Pandaxnm
 img: https://images.mokeee.com/20210510102350.jpg!blog?imageMogr2/auto-orient
-cover: true
+cover: false
 coverImg: https://images.mokeee.com/20210510102350.jpg!blog?imageMogr2/auto-orient
-categories: F900XR改装
+categories: 摩托日记
 keywords: 摩托车,机车,改装,风挡
 tags:
 
